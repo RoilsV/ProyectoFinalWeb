@@ -1,5 +1,8 @@
-# Firebase Studio
+Roils Velazquez #20230649 Tarea #1 Pagina Web Personal
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+![Mi captura de pantalla](Tarea.png)
+![Mi captura de pantalla](Tarea1.png)
+![Mi captura de pantalla](Tarea2.png)
+![Mi captura de pantalla](Tarea3.png)
+![Mi captura de pantalla](Tarea4.png)
+![Mi captura de pantalla](Tarea5.png)
